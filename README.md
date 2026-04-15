@@ -7,3 +7,4 @@ Making my own Ai automation system , like "JARVIS" in Iron Man movie
 Working on Soft campus 
 along with learning new things , which is best
 today at 23:23 pm 
+I started making website for SC with some new animations white background etc,
